@@ -1,1 +1,1 @@
-# GAN_DM
+# GAN / DM
