@@ -1,6 +1,6 @@
 # Synthesis with GAN
 
-## One to Many
+## One to Many based on pix2pix
 
 T2 ➔ FLAIR(Fluid Attenuate Inverse Recover), T1, T1ce(contrast enhanced)
 
