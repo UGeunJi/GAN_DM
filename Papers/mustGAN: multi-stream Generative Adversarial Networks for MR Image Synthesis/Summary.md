@@ -21,6 +21,25 @@ healthy and glioma patients
 
 <br>
 
+
+## Specific Loss
+
+```
+* Loss
+
+pixel-wise loss, cycle consistency loss
+
+
+* Effect
+
+reduce noise
+improved sharpness
+```
+
+---
+
+<br>
+
 ## Mechanism
 
 concat features
@@ -28,14 +47,3 @@ concat features
 Fusion block ➔ Joint network ➔ Adatively modify Fusion block's location ➔ Joint network ➔ ...
 
 Same with registration
-
----
-
-<br>
-
-## Specific Advantages
-
-```
-reduce noise
-improved sharpness
-```
